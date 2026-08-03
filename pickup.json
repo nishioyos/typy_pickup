@@ -1,0 +1,138 @@
+[
+  {
+    "id": "frc84qrdidbz",
+    "createdAt": "2026-08-03T05:41:27.006Z",
+    "updatedAt": "2026-08-03T05:42:31.765Z",
+    "publishedAt": "2026-08-03T05:42:31.765Z",
+    "revisedAt": "2026-08-03T05:42:31.765Z",
+    "update": "20260605",
+    "name": "夏イベントをもっと楽しむ！レジャーアイテムLIST",
+    "theme_1": "スイムウェア",
+    "sub_theme_1": "夏映え確実！リゾート気分を楽しむ",
+    "category_1": "https://www.palcloset.jp/display/display/?b=&favBrandOnly=&sex=001&c=3201&SearchItem.SORT_KEY=RELEASE_DM&g=1&type=01",
+    "allbtn_1": "https://www.palcloset.jp/display/display/?b=&favBrandOnly=&sex=001&c=3201&SearchItem.SORT_KEY=RELEASE_DM&type=01",
+    "theme_2": "ラッシュガード",
+    "sub_theme_2": "海も街もOK！アクティブにオシャ見え",
+    "category_2": "https://www.palcloset.jp/display/display/?SearchItem.SORT_KEY=RELEASE_DM&mode=zSearch&b=&sex=001&ord_type=001,002,003&SearchItem.KEYWORD=%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%83%89&is=&cp_flg=&restock_flg=&ss=&cl=&SearchItem.PRICE_LOW=0&nl=0&bg=&c=32,3201,3204&g=1&type=01",
+    "allbtn_2": "https://www.palcloset.jp/display/display/?SearchItem.SORT_KEY=RELEASE_DM&mode=zSearch&b=&sex=001&ord_type=001,002,003&SearchItem.KEYWORD=%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%83%89&is=&cp_flg=&restock_flg=&ss=&cl=&SearchItem.PRICE_LOW=0&nl=0&bg=&g=0&c=32,3201,3204&type=01",
+    "theme_3": "浴衣",
+    "sub_theme_3": "粋に可愛く！夏の風情をまとう",
+    "category_3": "https://www.palcloset.jp/display/display/?b=&favBrandOnly=&sex=001&c=3202&SearchItem.SORT_KEY=RELEASE_DM&g=1&type=01",
+    "allbtn_3": "https://www.palcloset.jp/display/display/?b=&favBrandOnly=&sex=001&c=3202&SearchItem.SORT_KEY=RELEASE_DM&type=01",
+    "theme4": "浴衣小物",
+    "sub_theme_4": "浴衣コーデを格上げ！プラスワンで差をつける",
+    "category_4": "https://www.palcloset.jp/display/display/?b=&favBrandOnly=&sex=001&SearchItem.SORT_KEY=RELEASE_DM&c=3203&g=1&type=01",
+    "allbtn_4": "https://www.palcloset.jp/display/display/?b=&favBrandOnly=&sex=001&SearchItem.SORT_KEY=RELEASE_DM&c=3203&g=0&type=01",
+    "keycolor": "#cc5500",
+    "font_type": [
+      "sans-serif"
+    ],
+    "i_or_c": [
+      "item"
+    ],
+    "pc_img": "https://lh3.googleusercontent.com/d/1bKkQn0JbbLh3Fy6fg-_8-NQdYxgM0HvA",
+    "sp_img": "https://lh3.googleusercontent.com/d/1ql0bheZr1p42OSKSQLhSiEB4dic-lN7E"
+  },
+  {
+    "id": "y5reji9k2wvw",
+    "createdAt": "2026-08-03T05:41:27.006Z",
+    "updatedAt": "2026-08-03T05:42:40.775Z",
+    "publishedAt": "2026-08-03T05:42:40.775Z",
+    "revisedAt": "2026-08-03T05:42:40.775Z",
+    "update": "20260619",
+    "name": "SNAP",
+    "theme_1": "UNDER155㎝以下",
+    "sub_theme_1": "全国ママおすすめ",
+    "category_1": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&sort=sales&keyword=%E4%BD%8E%E8%BA%AB%E9%95%B7&from_height=146&to_height=153",
+    "allbtn_1": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&keyword=%E3%83%9E%E3%83%9E",
+    "theme_2": "OVER165㎝",
+    "sub_theme_2": "高身長コーデ",
+    "category_2": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&sort=sales&keyword=%E9%AB%98%E8%BA%AB%E9%95%B7&from_height=168&to_height=173",
+    "allbtn_2": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&keyword=%E3%83%9E%E3%83%9E",
+    "theme_3": "浴衣",
+    "sub_theme_3": "粋に可愛く！夏の風情をまとう",
+    "category_3": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&keyword=%E3%83%9E%E3%83%9E",
+    "allbtn_3": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&keyword=%E3%83%9E%E3%83%9E",
+    "theme4": "浴衣小物",
+    "sub_theme_4": "浴衣コーデを格上げ！プラスワンで差をつける",
+    "category_4": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&keyword=%E3%83%9E%E3%83%9E",
+    "allbtn_4": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&keyword=%E3%83%9E%E3%83%9E",
+    "keycolor": "#cc5500",
+    "font_type": [
+      "sans-serif"
+    ],
+    "i_or_c": [
+      "coordinate"
+    ],
+    "pc_img": "https://lh3.googleusercontent.com/d/1bKkQn0JbbLh3Fy6fg-_8-NQdYxgM0HvA",
+    "sp_img": "https://lh3.googleusercontent.com/d/1ql0bheZr1p42OSKSQLhSiEB4dic-lN7E"
+  },
+  {
+    "id": "5c0fgro3p1er",
+    "createdAt": "2026-08-03T05:41:27.006Z",
+    "updatedAt": "2026-08-03T05:42:46.859Z",
+    "publishedAt": "2026-08-03T05:42:46.859Z",
+    "revisedAt": "2026-08-03T05:42:46.859Z",
+    "update": "20260625",
+    "name": "感謝祭",
+    "theme_1": "TYPYと言えばのサロペット",
+    "sub_theme_1": "キレイ目からカジュアル、リゾートまで",
+    "category_1": "https://www.palcloset.jp/display/display/?section_cd=0623typ&g=1&SearchItem.SORT_KEY=FAVORITE_DESC&type=01",
+    "allbtn_1": "https://www.palcloset.jp/display/display/?c=14&type=01&b=typy",
+    "theme_2": "人気の【India】シリーズ",
+    "sub_theme_2": "インド綿の風合いの良さ、拘りの刺繍がお洒落さを格上げ",
+    "category_2": "https://www.palcloset.jp/display/display/?section_cd=0623typ3&g=1&SearchItem.SORT_KEY=RELEASE_DM&type=01",
+    "allbtn_2": "https://www.palcloset.jp/display/display/?mode=rSearch&SearchItem.KEYWORD=India&b=typy&nl=0",
+    "theme_3": "夏に嬉しい”機能付き”トップス",
+    "sub_theme_3": "接触冷感、UVカット、ドライタッチなど嬉しい機能で夏を乗り切る！",
+    "category_3": "https://www.palcloset.jp/display/display/?section_cd=0623typ4&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_3": "https://docs.google.com/spreadsheets/d/13rv3isnnysbvY4xQHCoRx4SBp70Q3PZbB3jUF0jHVE4/edit?gid=0#gid=0",
+    "theme4": "”着映え”のプラスワンアイテム",
+    "sub_theme_4": "いつものTシャツ合わせが見違えるアイテムで夏コーデを楽しもう",
+    "category_4": "https://www.palcloset.jp/display/display/?section_cd=0623typ5&g=1&SearchItem.SORT_KEY=RELEASE_DM&type=01",
+    "allbtn_4": "https://www.palcloset.jp/display/display/?section_cd=0623typ5&g=1&SearchItem.SORT_KEY=RELEASE_DM&type=01",
+    "keycolor": "#fc951a",
+    "font_type": [
+      "sans-serif"
+    ],
+    "i_or_c": [
+      "item"
+    ],
+    "pc_img": "https://lh3.googleusercontent.com/d/1-c_PzE0PpscuRBHPrqhp9GlLYzY9JsHQ",
+    "sp_img": "https://lh3.googleusercontent.com/d/136ZQn59JLgtbFBhT0lJegv_hEW2bs-Va"
+  },
+  {
+    "id": "19910tesr_f",
+    "createdAt": "2026-08-03T05:41:27.006Z",
+    "updatedAt": "2026-08-03T05:42:55.950Z",
+    "publishedAt": "2026-08-03T05:42:55.950Z",
+    "revisedAt": "2026-08-03T05:42:55.950Z",
+    "update": "20260630",
+    "name": "上半期TYPYベストアワード2026　みんなに愛された名品、ついに発表。",
+    "theme_1": "ベストトップス賞",
+    "sub_theme_1": "リピーター買い多数のあのアイテムが堂々ランクイン!!",
+    "category_1": "https://www.palcloset.jp/display/display/?section_cd=typ262501&g=1&SearchItem.SORT_KEY=FAVORITE_DESC&type=01",
+    "allbtn_1": "https://www.palcloset.jp/display/display/?srsltid=AfmBOoozOaH9sKQ6lbRm140UclF5KiB_6Y4HPqyQEH7JpFs0d8oHV_bi&b=typy&SearchItem.SORT_KEY=FAVORITE_DESC&c=1101&p=2&type=01",
+    "theme_2": "ベストパンツ賞",
+    "sub_theme_2": "「普段使いはもちろん、旅行や公園遊びにも活躍」の声多数!!",
+    "category_2": "https://www.palcloset.jp/display/display/?section_cd=typ2606252&g=1&SearchItem.SORT_KEY=FAVORITE_DESC&type=01",
+    "allbtn_2": "https://www.palcloset.jp/display/display/?srsltid=AfmBOoozOaH9sKQ6lbRm140UclF5KiB_6Y4HPqyQEH7JpFs0d8oHV_bi&b=typy&SearchItem.SORT_KEY=FAVORITE_DESC&c=13&type=01",
+    "theme_3": "小柄さんのお悩み解決賞",
+    "sub_theme_3": "低身長スタッフも太鼓判のアイテムたち!!",
+    "category_3": "https://www.palcloset.jp/display/display/?section_cd=typ2606253&g=1&SearchItem.SORT_KEY=RATE_DESC&type=01",
+    "allbtn_3": "https://www.palcloset.jp/display/display/?section_cd=typ2606253&SearchItem.SORT_KEY=FAVORITE_DESC&g=1&type=01",
+    "theme4": "着やせ賞",
+    "sub_theme_4": "気になるところをおしゃれにカバー♡",
+    "category_4": "https://www.palcloset.jp/display/display/?section_cd=0623typ1&g=1&SearchItem.SORT_KEY=FAVORITE_DESC&type=01",
+    "allbtn_4": "https://www.palcloset.jp/display/display/?section_cd=0623typ1",
+    "keycolor": "#65caf0",
+    "font_type": [
+      "sans-serif"
+    ],
+    "i_or_c": [
+      "item"
+    ],
+    "pc_img": "https://lh3.googleusercontent.com/d/1zi4m-u29MA4v0rHW1W8y4jyvNXvm96IW",
+    "sp_img": "https://lh3.googleusercontent.com/d/1oci-WJbMn73nabVKKqsKwJU9l_iP9eZT"
+  }
+]
