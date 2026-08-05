@@ -1,5 +1,39 @@
 [
   {
+    "id": "4uswnxvms",
+    "createdAt": "2026-08-05T07:56:27.975Z",
+    "updatedAt": "2026-08-05T07:56:27.975Z",
+    "publishedAt": "2026-08-05T07:56:27.975Z",
+    "revisedAt": "2026-08-05T07:56:27.975Z",
+    "update": "20260612",
+    "name": "SNAP",
+    "theme_1": "UNDER155㎝以下",
+    "sub_theme_1": "全国ママおすすめ",
+    "category_1": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&sort=sales&keyword=%E4%BD%8E%E8%BA%AB%E9%95%B7&from_height=146&to_height=153",
+    "allbtn_1": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&keyword=%E3%83%9E%E3%83%9E",
+    "theme_2": "OVER165㎝",
+    "sub_theme_2": "高身長コーデ",
+    "category_2": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&sort=sales&keyword=%E9%AB%98%E8%BA%AB%E9%95%B7&from_height=168&to_height=173",
+    "allbtn_2": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&keyword=%E3%83%9E%E3%83%9E",
+    "theme_3": "浴衣",
+    "sub_theme_3": "粋に可愛く！夏の風情をまとう",
+    "category_3": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&keyword=%E3%83%9E%E3%83%9E",
+    "allbtn_3": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&keyword=%E3%83%9E%E3%83%9E",
+    "theme4": "浴衣小物",
+    "sub_theme_4": "浴衣コーデを格上げ！プラスワンで差をつける",
+    "category_4": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&keyword=%E3%83%9E%E3%83%9E",
+    "allbtn_4": "https://www.palcloset.jp/addons/coordinate/list/?b=typy&keyword=%E3%83%9E%E3%83%9E",
+    "keycolor": "#cc5500",
+    "font_type": [
+      "sans-serif"
+    ],
+    "i_or_c": [
+      "coordinate"
+    ],
+    "pc_img_url": "https://lh3.googleusercontent.com/d/1bKkQn0JbbLh3Fy6fg-_8-NQdYxgM0HvA",
+    "sp_img_url": "https://lh3.googleusercontent.com/d/1ql0bheZr1p42OSKSQLhSiEB4dic-lN7E"
+  },
+  {
     "id": "44_v-72kur-0",
     "createdAt": "2026-08-05T07:18:13.938Z",
     "updatedAt": "2026-08-05T07:18:13.938Z",
