@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "id": "4iatkclng0n",
+    "createdAt": "2026-08-05T03:05:16.155Z",
+    "updatedAt": "2026-08-05T03:05:16.155Z",
+    "publishedAt": "2026-08-05T03:05:16.155Z",
+    "revisedAt": "2026-08-05T03:05:16.155Z",
+    "update": "20260605",
+    "name": "夏イベントをもっと楽しむ！レジャーアイテムLIST",
+    "theme_1": "スイムウェア",
+    "sub_theme_1": "夏映え確実！リゾート気分を楽しむ",
+    "category_1": "https://www.palcloset.jp/display/display/?b=&favBrandOnly=&sex=001&c=3201&SearchItem.SORT_KEY=RELEASE_DM&g=1&type=01",
+    "allbtn_1": "https://www.palcloset.jp/display/display/?b=&favBrandOnly=&sex=001&c=3201&SearchItem.SORT_KEY=RELEASE_DM&type=01",
+    "theme_2": "ラッシュガード",
+    "sub_theme_2": "海も街もOK！アクティブにオシャ見え",
+    "category_2": "https://www.palcloset.jp/display/display/?SearchItem.SORT_KEY=RELEASE_DM&mode=zSearch&b=&sex=001&ord_type=001,002,003&SearchItem.KEYWORD=%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%83%89&is=&cp_flg=&restock_flg=&ss=&cl=&SearchItem.PRICE_LOW=0&nl=0&bg=&c=32,3201,3204&g=1&type=01",
+    "allbtn_2": "https://www.palcloset.jp/display/display/?SearchItem.SORT_KEY=RELEASE_DM&mode=zSearch&b=&sex=001&ord_type=001,002,003&SearchItem.KEYWORD=%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%83%89&is=&cp_flg=&restock_flg=&ss=&cl=&SearchItem.PRICE_LOW=0&nl=0&bg=&g=0&c=32,3201,3204&type=01",
+    "theme_3": "浴衣",
+    "sub_theme_3": "粋に可愛く！夏の風情をまとう",
+    "category_3": "https://www.palcloset.jp/display/display/?b=&favBrandOnly=&sex=001&c=3202&SearchItem.SORT_KEY=RELEASE_DM&g=1&type=01",
+    "allbtn_3": "https://www.palcloset.jp/display/display/?b=&favBrandOnly=&sex=001&c=3202&SearchItem.SORT_KEY=RELEASE_DM&type=01",
+    "theme4": "浴衣小物",
+    "sub_theme_4": "浴衣コーデを格上げ！プラスワンで差をつける",
+    "category_4": "https://www.palcloset.jp/display/display/?b=&favBrandOnly=&sex=001&SearchItem.SORT_KEY=RELEASE_DM&c=3203&g=1&type=01",
+    "allbtn_4": "https://www.palcloset.jp/display/display/?b=&favBrandOnly=&sex=001&SearchItem.SORT_KEY=RELEASE_DM&c=3203&g=0&type=01",
+    "keycolor": "#cc5500",
+    "font_type": [
+      "sans-serif"
+    ],
+    "i_or_c": [
+      "item"
+    ],
+    "pc_img_url": "https://lh3.googleusercontent.com/d/1bKkQn0JbbLh3Fy6fg-_8-NQdYxgM0HvA",
+    "sp_img_url": "https://lh3.googleusercontent.com/d/1ql0bheZr1p42OSKSQLhSiEB4dic-lN7E"
+  }
+]
