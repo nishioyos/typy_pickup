@@ -1,5 +1,39 @@
 [
   {
+    "id": "ds20v9thzim2",
+    "createdAt": "2026-08-05T02:57:32.271Z",
+    "updatedAt": "2026-08-05T02:57:32.271Z",
+    "publishedAt": "2026-08-05T02:57:32.271Z",
+    "revisedAt": "2026-08-05T02:57:32.271Z",
+    "update": "20260724",
+    "name": "クリアランスSALEアイテム一覧",
+    "theme_1": "トップス",
+    "sub_theme_1": "お得に買える最後のチャンス!!",
+    "category_1": "https://www.palcloset.jp/display/display/?c=11&type=01&b=typy",
+    "allbtn_1": "https://www.palcloset.jp/display/display/?c=11&type=01&b=typy",
+    "theme_2": "ボトムス",
+    "sub_theme_2": "お得に買える最後のチャンス!!",
+    "category_2": "https://www.palcloset.jp/display/display/?section_cd=typ2607lp02&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_2": "https://www.palcloset.jp/display/display/?c=11&type=01&b=typy",
+    "theme_3": "オールインワン",
+    "sub_theme_3": "お得に買える最後のチャンス!!",
+    "category_3": "https://www.palcloset.jp/display/display/?c=11&type=01&b=typy",
+    "allbtn_3": "https://www.palcloset.jp/display/display/?c=11&type=01&b=typy",
+    "theme4": "雑貨",
+    "sub_theme_4": "お得に買える最後のチャンス!!",
+    "category_4": "https://www.palcloset.jp/display/display/?section_cd=2606196",
+    "allbtn_4": "https://www.palcloset.jp/display/display/?c=11&type=01&b=typy",
+    "keycolor": "#7C96BF",
+    "font_type": [
+      "sans-serif"
+    ],
+    "i_or_c": [
+      "item"
+    ],
+    "pc_img_url": "https://lh3.googleusercontent.com/d/1bKkQn0JbbLh3Fy6fg-_8-NQdYxgM0HvA",
+    "sp_img_url": "https://lh3.googleusercontent.com/d/1ql0bheZr1p42OSKSQLhSiEB4dic-lN7E"
+  },
+  {
     "id": "nje-xsu6tuz5",
     "createdAt": "2026-08-05T02:56:21.153Z",
     "updatedAt": "2026-08-05T02:56:24.589Z",
