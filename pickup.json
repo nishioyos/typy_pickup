@@ -1,5 +1,39 @@
 [
   {
+    "id": "x0zk236vv",
+    "createdAt": "2026-08-05T08:42:55.686Z",
+    "updatedAt": "2026-08-05T08:42:55.686Z",
+    "publishedAt": "2026-08-05T08:42:55.686Z",
+    "revisedAt": "2026-08-05T08:42:55.686Z",
+    "update": "20260710",
+    "name": "TYPYSALE",
+    "theme_1": "夏トップス",
+    "sub_theme_1": "今買って、すぐ届く！",
+    "category_1": "https://www.palcloset.jp/display/display/?section_cd=typ2607lp01&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_1": "https://www.palcloset.jp/display/display/?c=11&sale_type=002&mode=&b=typy&sex=&ord_type=001&SearchItem.KEYWORD=&is=&cp_flg=&restock_flg=&ss=&cl=&SearchItem.PRICE_",
+    "theme_2": "ボトム＆スカート",
+    "sub_theme_2": "着回し抜群!!",
+    "category_2": "https://www.palcloset.jp/display/display/?section_cd=typ2607lp02&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_2": "https://www.palcloset.jp/display/display/?sale_type=002&mode=&b=typy&sex=&ord_type=001&SearchItem.KEYWORD=&is=&cp_flg=&restock_flg=&ss=&cl=&SearchItem.PRICE_LOW=",
+    "theme_3": "お気に入り5,000オーバー！",
+    "sub_theme_3": "TYPYの名作も今だけお得♪",
+    "category_3": "https://www.palcloset.jp/display/display/?section_cd=typ2607lp03&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_3": "https://www.palcloset.jp/display/display/?sale_type=002&b=typy&SearchItem.SORT_KEY=FAVORITE_DESC&type=01",
+    "theme4": "50％OFF～",
+    "sub_theme_4": "早い者勝ち！特価アイテム",
+    "category_4": "https://www.palcloset.jp/display/display/?section_cd=typ2607lp4&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_4": "https://www.palcloset.jp/display/display/?sale_type=002&b=typy&SearchItem.SORT_KEY=RATE_DESC&type=01",
+    "keycolor": "#E41F43",
+    "font_type": [
+      "sans-serif"
+    ],
+    "i_or_c": [
+      "item"
+    ],
+    "pc_img_url": "https://lh3.googleusercontent.com/d/1QQyfCY-K0ndS3cUiKvpTEY6B9dKoQNcR",
+    "sp_img_url": "https://lh3.googleusercontent.com/d/1kfOkVMG1u6YKnM1bOl91ShObn-6qpDrT"
+  },
+  {
     "id": "nm-xsfk99u",
     "createdAt": "2026-08-05T08:42:35.852Z",
     "updatedAt": "2026-08-05T08:42:35.852Z",
