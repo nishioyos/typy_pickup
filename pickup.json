@@ -1,39 +1,5 @@
 [
   {
-    "id": "ho__4-epy",
-    "createdAt": "2026-08-05T07:18:14.908Z",
-    "updatedAt": "2026-08-05T07:18:14.908Z",
-    "publishedAt": "2026-08-05T07:18:14.908Z",
-    "revisedAt": "2026-08-05T07:18:14.908Z",
-    "update": "20260610",
-    "name": "練習",
-    "theme_1": "トップス",
-    "sub_theme_1": "梅雨～夏に必要な多機能付き",
-    "category_1": "https://www.palcloset.jp/display/item/TYZ1061509A0008/?b=typy",
-    "allbtn_1": "https://www.palcloset.jp/display/item/TYZ1061509A0008/?b=typy",
-    "theme_2": "ボトムス",
-    "sub_theme_2": "楽ちん柔らかシリーズ",
-    "category_2": "https://www.palcloset.jp/display/item/TYZ1061509A0008/?b=typy",
-    "allbtn_2": "https://www.palcloset.jp/display/item/TYZ1061509A0008/?b=typy",
-    "theme_3": "ワンピース",
-    "sub_theme_3": "旅行に最適。一枚で着映える",
-    "category_3": "https://www.palcloset.jp/display/item/TYZ1061509A0008/?b=typy",
-    "allbtn_3": "https://www.palcloset.jp/display/item/TYZ1061509A0008/?b=typy",
-    "theme4": "今揃えたい、夏小物",
-    "sub_theme_4": "BAGからサンダルまで",
-    "category_4": "https://www.palcloset.jp/display/item/TYZ1061509A0008/?b=typy",
-    "allbtn_4": "https://www.palcloset.jp/display/item/TYZ1061509A0008/?b=typy",
-    "keycolor": "#7C96BF",
-    "font_type": [
-      "sans-serif"
-    ],
-    "i_or_c": [
-      "item"
-    ],
-    "pc_img_url": "https://lh3.googleusercontent.com/d/1I6lZobrTOp3pSSEt9iRR7W8-AbvXpQlz",
-    "sp_img_url": "https://lh3.googleusercontent.com/d/1I6lZobrTOp3pSSEt9iRR7W8-AbvXpQlz"
-  },
-  {
     "id": "44_v-72kur-0",
     "createdAt": "2026-08-05T07:18:13.938Z",
     "updatedAt": "2026-08-05T07:18:13.938Z",
