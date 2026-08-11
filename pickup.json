@@ -1,5 +1,39 @@
 [
   {
+    "id": "0h69y9o7v6z8",
+    "createdAt": "2026-08-11T03:47:18.626Z",
+    "updatedAt": "2026-08-11T03:47:23.997Z",
+    "publishedAt": "2026-08-11T03:47:18.626Z",
+    "revisedAt": "2026-08-11T03:47:23.997Z",
+    "update": "20260815",
+    "name": "アウター先行予約会",
+    "theme_1": "SNSで人気爆発中！注目アウター",
+    "sub_theme_1": "いまが一番お得！早割20％OFFクーポンは8/19（水）23:59まで!",
+    "category_1": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26081001&g=1&SearchItem.SORT_KEY=FAVORITE_DESC&type=01",
+    "allbtn_1": "https://www.palcloset.jp/display/display/?section_cd=typ260810outer",
+    "theme_2": "存在感抜群のetsinta",
+    "sub_theme_2": "期間内に対象品番をご購入の方には10月に使える￥1,000クーポン配布！",
+    "category_2": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26081002&g=1&type=01",
+    "allbtn_2": "https://www.palcloset.jp/display/display/?section_cd=typ260810outer",
+    "theme_3": "ユニセックスアイテム",
+    "sub_theme_3": "いまが一番お得！早割20％OFFクーポンは8/19（水）23:59まで!",
+    "category_3": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26081003&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_3": "https://www.palcloset.jp/display/display/?section_cd=typ260810outer",
+    "theme4": "ユニセックスアイテム",
+    "sub_theme_4": "いまが一番お得！早割20％OFFクーポンは8/19（水）23:59まで!",
+    "category_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26081003&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_4": "https://www.palcloset.jp/display/display/?section_cd=typ260810outer",
+    "keycolor": "#7C96BF",
+    "font_type": [
+      "sans-serif"
+    ],
+    "i_or_c": [
+      "item"
+    ],
+    "pc_img_url": "https://lh3.googleusercontent.com/d/1MhISBhvp2J_FdIba_GJJGRUW77i_v4z6",
+    "sp_img_url": "https://lh3.googleusercontent.com/d/1niNSDkOJJP79E9pinX2ix08kvDlgOB_2"
+  },
+  {
     "id": "q8a1iq--1u",
     "createdAt": "2026-08-07T08:01:52.305Z",
     "updatedAt": "2026-08-07T08:01:52.305Z",
