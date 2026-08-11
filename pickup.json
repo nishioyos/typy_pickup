@@ -2,9 +2,9 @@
   {
     "id": "0h69y9o7v6z8",
     "createdAt": "2026-08-11T03:47:18.626Z",
-    "updatedAt": "2026-08-11T04:36:22.663Z",
+    "updatedAt": "2026-08-11T04:36:34.238Z",
     "publishedAt": "2026-08-11T03:47:18.626Z",
-    "revisedAt": "2026-08-11T04:36:22.663Z",
+    "revisedAt": "2026-08-11T04:36:34.238Z",
     "update": "20260815",
     "name": "アウター先行予約会",
     "theme_1": "SNSで人気爆発!注目アウター",
@@ -23,7 +23,7 @@
     "sub_theme_4": "いまが一番お得！早割20％OFFクーポンは8/19（水）23:59まで!",
     "category_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26081003&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
     "allbtn_4": "https://www.palcloset.jp/display/display/?section_cd=typ260810outer",
-    "keycolor": "#7C96BF",
+    "keycolor": "#015f95",
     "font_type": [
       "sans-serif"
     ],
