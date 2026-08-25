@@ -2,9 +2,9 @@
   {
     "id": "a26ddz7gzx8",
     "createdAt": "2026-08-25T00:37:31.447Z",
-    "updatedAt": "2026-08-25T00:44:08.440Z",
+    "updatedAt": "2026-08-25T00:44:16.748Z",
     "publishedAt": "2026-08-25T00:37:31.447Z",
-    "revisedAt": "2026-08-25T00:44:08.440Z",
+    "revisedAt": "2026-08-25T00:44:16.748Z",
     "update": "20260824",
     "name": "秋じたく人気アイテムランキング",
     "theme_1": "トップス",
@@ -23,7 +23,7 @@
     "sub_theme_4": "秋じたく人気アイテムランキング",
     "category_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26082404&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
     "allbtn_4": "https://www.palcloset.jp/display/display/?section_cd=typ26082408",
-    "keycolor": "#A0998D",
+    "keycolor": "#db7093",
     "font_type": [
       "sans-serif"
     ],
