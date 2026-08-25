@@ -2,9 +2,9 @@
   {
     "id": "a26ddz7gzx8",
     "createdAt": "2026-08-25T00:37:31.447Z",
-    "updatedAt": "2026-08-25T00:43:38.286Z",
+    "updatedAt": "2026-08-25T00:44:07.463Z",
     "publishedAt": "2026-08-25T00:37:31.447Z",
-    "revisedAt": "2026-08-25T00:43:38.286Z",
+    "revisedAt": "2026-08-25T00:44:07.463Z",
     "update": "20260824",
     "name": "秋じたく人気アイテムランキング",
     "theme_1": "トップス",
@@ -18,11 +18,11 @@
     "theme_3": "サロペット",
     "sub_theme_3": "秋じたく人気アイテムランキング",
     "category_3": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26082403&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
-    "allbtn_3": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26081001&g=1&SearchItem.SORT_KEY=FAVORITE_DESC&type=01",
+    "allbtn_3": "https://www.palcloset.jp/display/display/?section_cd=typ26082407",
     "theme4": "雑貨",
     "sub_theme_4": "秋じたく人気アイテムランキング",
     "category_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26082404&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
-    "allbtn_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26081001&g=1&SearchItem.SORT_KEY=FAVORITE_DESC&type=01",
+    "allbtn_4": "https://www.palcloset.jp/display/display/?section_cd=typ26082408",
     "keycolor": "#A0998D",
     "font_type": [
       "sans-serif"
