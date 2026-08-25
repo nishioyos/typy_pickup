@@ -1,5 +1,39 @@
 [
   {
+    "id": "a26ddz7gzx8",
+    "createdAt": "2026-08-25T00:37:31.447Z",
+    "updatedAt": "2026-08-25T00:37:35.834Z",
+    "publishedAt": "2026-08-25T00:37:31.447Z",
+    "revisedAt": "2026-08-25T00:37:35.834Z",
+    "update": "20260824",
+    "name": "秋じたく人気アイテムランキング",
+    "theme_1": "トップス",
+    "sub_theme_1": "秋じたく人気アイテムランキング",
+    "category_1": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26082401&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_1": "https://www.palcloset.jp/display/display/?mode=zSearch&b=typy&c=11&g=1&type=01",
+    "theme_2": "ボトムス/スカート",
+    "sub_theme_2": "秋じたく人気アイテムランキング",
+    "category_2": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26082402&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_2": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26081001&g=1&SearchItem.SORT_KEY=FAVORITE_DESC&type=01",
+    "theme_3": "サロペット",
+    "sub_theme_3": "秋じたく人気アイテムランキング",
+    "category_3": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26082403&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_3": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26081001&g=1&SearchItem.SORT_KEY=FAVORITE_DESC&type=01",
+    "theme4": "サロペット",
+    "sub_theme_4": "秋じたく人気アイテムランキング",
+    "category_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26082403&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ26081001&g=1&SearchItem.SORT_KEY=FAVORITE_DESC&type=01",
+    "keycolor": "#A0998D",
+    "font_type": [
+      "sans-serif"
+    ],
+    "i_or_c": [
+      "item"
+    ],
+    "pc_img_url": "https://lh3.googleusercontent.com/d/1_aZNKKj8WL8YooZjSllq1oniFKNio2q-",
+    "sp_img_url": "https://lh3.googleusercontent.com/d/1gcG6wytU_w-kp98CUQK0vyyhyzsMj6mG"
+  },
+  {
     "id": "0h69y9o7v6z8",
     "createdAt": "2026-08-11T03:47:18.626Z",
     "updatedAt": "2026-08-24T10:02:35.407Z",
