@@ -1,5 +1,107 @@
 [
   {
+    "id": "0928hzj5r",
+    "createdAt": "2026-11-16T06:02:41.545Z",
+    "updatedAt": "2026-11-16T06:02:52.208Z",
+    "publishedAt": "2026-11-16T06:02:41.545Z",
+    "revisedAt": "2026-11-16T06:02:52.208Z",
+    "update": "20260631",
+    "name": "ノベルティフェア",
+    "theme_1": "人気のトップス＆ボトムス",
+    "sub_theme_1": "税込み￥11,000以上のお買い上げ先着!!ノベルティバッグプレゼント",
+    "category_1": "https://www.palcloset.jp/display/display/?section_cd=typ26062801&g=1&type=01",
+    "allbtn_1": "https://www.palcloset.jp/display/display/?b=typy&ord_type=001&ord_type=002&SearchItem.SORT_KEY=POPULARITY_DESC&g=1&sale_type=001&type=01",
+    "theme_2": "色ち‟買い”必須アイテム",
+    "sub_theme_2": "税込み￥11,000以上のお買い上げ先着!!ノベルティバッグプレゼント",
+    "category_2": "https://www.palcloset.jp/display/display/?section_cd=typ26062802&g=1&type=01",
+    "allbtn_2": "https://www.palcloset.jp/display/display/?c=11&b=typy&sale_type=001&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "theme_3": "着映える”india\"シリーズも対象",
+    "sub_theme_3": "税込み￥11,000以上のお買い上げ先着!!ノベルティバッグプレゼント",
+    "category_3": "https://www.palcloset.jp/display/display/?section_cd=typ26062803&g=1&type=01",
+    "allbtn_3": "https://www.palcloset.jp/display/display/?section_cd=26062901&leeep_tracking=1&sale_type=001&type=01",
+    "theme4": "人気のBAG＆GOODS",
+    "sub_theme_4": "税込み￥11,000以上のお買い上げ先着!!ノベルティバッグプレゼント",
+    "category_4": "https://www.palcloset.jp/display/display/?section_cd=typ26062804&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_4": "https://www.palcloset.jp/display/display/?section_cd=26062902&leeep_tracking=1&sale_type=001&type=01",
+    "keycolor": "#fc951a",
+    "font_type": [
+      "sans-serif"
+    ],
+    "i_or_c": [
+      "item"
+    ],
+    "pc_img_url": "https://lh3.googleusercontent.com/d/17ZeM8ZLhr1hsCpQyA3mlPERqRFVAf5D3",
+    "sp_img_url": "https://lh3.googleusercontent.com/d/1oj-QhsJcWeqv6eTlBr8x_ah1AdGhIZnw"
+  },
+  {
+    "id": "43h9qpcb6",
+    "createdAt": "2026-11-16T05:44:45.492Z",
+    "updatedAt": "2026-11-16T05:59:04.189Z",
+    "publishedAt": "2026-11-16T05:44:45.492Z",
+    "revisedAt": "2026-11-16T05:59:04.189Z",
+    "update": "20261117",
+    "name": "サンリオキャラクターズ",
+    "theme_1": "人気アイテムランキング",
+    "sub_theme_1": "全22型の中で注目の人気アイテムはこちら！",
+    "category_1": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=11162&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_1": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ261024",
+    "theme_2": "アパレルは大人～KIDSまで展開♡",
+    "sub_theme_2": "刺繍デニム大人気！ニットの背中にも刺繍が入っています♡",
+    "category_2": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=111601&SearchItem.SORT_KEY=POPULARITY_DESC&g=1&type=01",
+    "allbtn_2": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ261024",
+    "theme_3": "GOODS一覧",
+    "sub_theme_3": "大人カジュアルに取り入れやすいデザインで展開しています。",
+    "category_3": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=11163&g=1&SearchItem.SORT_KEY=PRICE_DESC&type=01",
+    "allbtn_3": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ261024",
+    "theme4": "トラベルGOODS",
+    "sub_theme_4": "年末年始の旅行や帰省にもおすすめです！",
+    "category_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=11164&g=1&SearchItem.SORT_KEY=PRICE_DESC&type=01",
+    "allbtn_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ261024",
+    "keycolor": "#417ee3",
+    "font_type": [
+      "sans-serif"
+    ],
+    "i_or_c": [
+      "item"
+    ],
+    "pc_img_url": "https://lh3.googleusercontent.com/d/1WgUR0pRNMF2l9lFQeeEt2oR_bP2JC7vT",
+    "sp_img_url": "https://lh3.googleusercontent.com/d/1VXRgVBCucLpVYiHYDCmiMCe2L_mOnACB"
+  },
+  {
+    "id": "onwpzi_vzglv",
+    "createdAt": "2026-11-16T02:40:10.168Z",
+    "updatedAt": "2026-11-16T05:53:09.367Z",
+    "publishedAt": "2026-11-16T02:40:10.168Z",
+    "revisedAt": "2026-11-16T05:53:09.367Z",
+    "update": "20261116",
+    "name": "サンリオキャラクターズ | wiggle wiggle | CIAOPANIC TYPY",
+    "theme_1": "人気アイテムランキング",
+    "sub_theme_1": "全22型の中で注目の人気アイテムはこちら！",
+    "category_1": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=11162&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_1": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ261024",
+    "theme_2": "アパレルは大人～KIDSまで展開♡",
+    "sub_theme_2": "刺繍デニム大人気！ニットの背中にも刺繍が入っています♡",
+    "category_2": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=111601&SearchItem.SORT_KEY=POPULARITY_DESC&g=1&type=01",
+    "allbtn_2": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ261024",
+    "theme_3": "GOODS一覧",
+    "sub_theme_3": "大人カジュアルに取り入れやすいデザインで展開しています。",
+    "category_3": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=11163&g=1&SearchItem.SORT_KEY=PRICE_DESC&type=01",
+    "allbtn_3": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ261024",
+    "theme4": "トラベルGOODS",
+    "sub_theme_4": "年末年始の旅行や帰省にもおすすめです！",
+    "category_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=11164&g=1&SearchItem.SORT_KEY=PRICE_DESC&type=01",
+    "allbtn_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ261024",
+    "keycolor": "#417ee3",
+    "font_type": [
+      "serif"
+    ],
+    "i_or_c": [
+      "item"
+    ],
+    "pc_img_url": "https://drive.google.com/file/d/1WgUR0pRNMF2l9lFQeeEt2oR_bP2JC7vT/view?usp=sharing",
+    "sp_img_url": "https://drive.google.com/file/d/1VXRgVBCucLpVYiHYDCmiMCe2L_mOnACB/view?usp=sharing"
+  },
+  {
     "id": "a26ddz7gzx8",
     "createdAt": "2026-08-25T00:37:31.447Z",
     "updatedAt": "2026-08-25T01:00:07.947Z",
