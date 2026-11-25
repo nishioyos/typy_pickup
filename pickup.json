@@ -1,5 +1,39 @@
 [
   {
+    "id": "n3qm6aqldg5",
+    "createdAt": "2026-11-25T01:25:34.474Z",
+    "updatedAt": "2026-11-25T01:25:34.474Z",
+    "publishedAt": "2026-11-25T01:25:34.474Z",
+    "revisedAt": "2026-11-25T01:25:34.474Z",
+    "update": "20261116",
+    "name": "サンリオキャラクターズ | wiggle wiggle | CIAOPANIC TYPY",
+    "theme_1": "人気アイテムランキング",
+    "sub_theme_1": "全22型の中で注目の人気アイテムはこちら！",
+    "category_1": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=11162&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_1": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ261024",
+    "theme_2": "アパレル",
+    "sub_theme_2": "大人～KIDSサイズで展開しています♡刺繍デニム大人気！ニットの背中にも刺繍が♡",
+    "category_2": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=111601&SearchItem.SORT_KEY=POPULARITY_DESC&g=1&type=01",
+    "allbtn_2": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ261024",
+    "theme_3": "BAGと雑貨一覧",
+    "sub_theme_3": "大人カジュアルに取り入れやすいデザインで展開しています。",
+    "category_3": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=11163&g=1&SearchItem.SORT_KEY=POPULARITY_DESC&type=01",
+    "allbtn_3": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ261024",
+    "theme4": "トラベルGOODS",
+    "sub_theme_4": "年末年始の旅行や帰省にもおすすめです！",
+    "category_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=11164&g=1&SearchItem.SORT_KEY=PRICE_DESC&type=01",
+    "allbtn_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=typ261024",
+    "keycolor": "#ea5549",
+    "font_type": [
+      "sans-serif"
+    ],
+    "i_or_c": [
+      "item"
+    ],
+    "pc_img_url": "https://lh3.googleusercontent.com/d/1WgUR0pRNMF2l9lFQeeEt2oR_bP2JC7vT",
+    "sp_img_url": "https://lh3.googleusercontent.com/d/1VXRgVBCucLpVYiHYDCmiMCe2L_mOnACB"
+  },
+  {
     "id": "0928hzj5r",
     "createdAt": "2026-11-16T06:02:41.545Z",
     "updatedAt": "2026-11-16T06:02:52.208Z",
