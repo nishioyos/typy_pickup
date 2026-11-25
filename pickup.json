@@ -2,9 +2,9 @@
   {
     "id": "dgru_b3m5yf",
     "createdAt": "2026-11-25T01:41:38.999Z",
-    "updatedAt": "2026-11-25T01:41:50.032Z",
+    "updatedAt": "2026-11-25T01:50:16.049Z",
     "publishedAt": "2026-11-25T01:41:38.999Z",
-    "revisedAt": "2026-11-25T01:41:50.032Z",
+    "revisedAt": "2026-11-25T01:50:16.049Z",
     "update": "20261205",
     "name": "『ミニオンズ＆モンスターズ』CIAOPANIC TYPY",
     "theme_1": "人気アイテムランキング",
@@ -23,7 +23,7 @@
     "sub_theme_4": "完売していた品番は12月14日から再販決定!!",
     "category_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=120504&g=1&SearchItem.SORT_KEY=PRICE_ASC&type=01",
     "allbtn_4": "https://www.palcloset.jp/display/display/?mode=zSearch&section_cd=120505&g=1&SearchItem.SORT_KEY=PRICE_DESC&type=01",
-    "keycolor": "#E3FF00",
+    "keycolor": "#fc951a",
     "font_type": [
       "sans-serif"
     ],
